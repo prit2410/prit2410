@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prit2410
+- 👋 Hi, I’m Prit Desai
 - 👀 I’m interested in app and web development.
 - 🌱 I’m currently learning flutter
 

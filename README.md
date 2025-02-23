@@ -49,10 +49,5 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prit2410&show_icons=true&theme=radical)  
-
----
-
 💡 *I am always open to collaborations and exciting projects!* 🚀  
 📩 *Feel free to reach out via [email](mailto:pxd0534@mavs.uta.edu) or [LinkedIn](https://www.linkedin.com/in/prit-desai-36545412b/).*  

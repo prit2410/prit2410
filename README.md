@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Prit Desai
-- 👀 I’m interested in app and web development.
-- 🌱 I’m currently learning flutter
+# Hi, I'm Prit Desai 👋  
+🎓 MS in Computer Science @ UTA  
+💻 Full-stack Developer | Node.js | JavaScript | Python  
+🔗 [LinkedIn](https://www.linkedin.com/in/prit-desai-36545412b/) | [GitHub](https://github.com/prit2410)  
 
-<!---
-prit2410/prit2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📌 Projects  
+- **[Book Cart](https://github.com/prit2410/book-cart)** - A dynamic library app in Java  
+- **[Text Guide](https://github.com/prit2410/text-guide)** - OCR-based Android app for farmers  
+
+## ⚡ Skills  
+- Languages: Java, Python, C++  
+- Frontend: HTML, CSS, JavaScript, Bootstrap  
+- Backend: Node.js, Express.js, Firebase  

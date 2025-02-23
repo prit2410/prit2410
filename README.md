@@ -28,11 +28,11 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 ---
 
 ## 📌 Featured Projects  
-### **[Book Cart](https://github.com/prit2410/book-cart)** 📚  
+### **[Book Cart](https://github.com/prit2410/BookCartLibraryApp)** 📚  
 *A dynamic mobile application that integrates with a library's database, allowing users to search and borrow books.*  
 **Tech Stack:** Java, Android Studio, Firebase  
 
-### **[Text Guide](https://github.com/prit2410/text-guide)** 🔍  
+### **[Text Guide](https://github.com/prit2410/TextGuideVersion3.0)** 🔍  
 *An OCR-based Android app for farmers to scan legal documents or fertilizer labels in their preferred language.*  
 **Tech Stack:** Java, Android Studio, Firebase, Text-to-Speech  
 

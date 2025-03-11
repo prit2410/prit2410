@@ -58,12 +58,6 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 
 ---
 
-## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=prit2410&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
 ## 📌 Featured Projects  
 ### **[Book Cart](https://github.com/prit2410/BookCartLibraryApp)** 📚  
 *A dynamic mobile application that integrates with a library's database, allowing users to search and borrow books.*  

@@ -84,9 +84,7 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 - **Java Level 2 Certification** – Cambridge Certification Authority  
 - **Web Development Masterclass** – Udemy  
 
----
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=prit2410)  
+--- 
 
 💡 *I am always open to collaborations and exciting projects!* 🚀  
 📩 *Feel free to reach out via [email](mailto:pxd0534@mavs.uta.edu) or [LinkedIn](https://www.linkedin.com/in/prit-desai-36545412b/).*  

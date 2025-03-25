@@ -69,7 +69,7 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 *A website showcasing the latest fashion trends in shoes and clothing.*  
 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
 
----
+-----------------
 
 ## 🏆 Certifications  
 - **Java Programming Masterclass** – Udemy  

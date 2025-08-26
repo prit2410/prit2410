@@ -38,7 +38,6 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
 ### 📊 Data Science & ML:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -57,6 +56,11 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 ---
 
 ## 📌 Featured Projects  
+
+### **[Hand Gesture Recognition](https://github.com/prit2410/Hand-Gesture-Recognition)** ✋  
+*A comparative study of hand gesture recognition using classical ML (KNN, SVM) and deep learning (ResNet18). Trained on 24,000 images across 20 gesture classes, ResNet18 achieved 98.98% accuracy, outperforming traditional methods.*  
+**Tech Stack:** Python, OpenCV, scikit-learn, PyTorch  
+
 ### **[Book Cart](https://github.com/prit2410/BookCartLibraryApp)** 📚  
 *A dynamic mobile application that integrates with a library's database, allowing users to search and borrow books.*  
 **Tech Stack:** Java, Android Studio, Firebase  
@@ -69,14 +73,14 @@ I am a highly motivated **Computer Science graduate student** with a Bachelor's 
 *A website showcasing the latest fashion trends in shoes and clothing.*  
 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
 
------------------
+---
 
 ## 🏆 Certifications  
 - **Java Programming Masterclass** – Udemy  
 - **Java Level 2 Certification** – Cambridge Certification Authority  
 - **Web Development Masterclass** – Udemy  
 
---- 
+---  
 
 💡 *I am always open to collaborations and exciting projects!* 🚀  
 📩 *Feel free to reach out via [email](mailto:pxd0534@mavs.uta.edu) or [LinkedIn](https://www.linkedin.com/in/prit-desai-36545412b/).*  

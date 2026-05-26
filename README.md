@@ -1,6 +1,7 @@
 # Hi, I'm Prit Desai 👋  
 
-🎓 **MS in Computer Science Graduate @ University of Texas at Arlington** 💻 **Backend & Full-stack Developer | Node.js | Django | Express.js | Python** 📍 **Columbus, Ohio | Open to Opportunities** 🔗 **Connect with me:** 
+🎓 **MS in Computer Science Graduate @ University of Texas at Arlington** 💻 **Backend & Full-stack Developer | Node.js | Django | Express.js | Python** 📍 **Columbus, Ohio | Open to Opportunities** 
+🔗 **Connect with me:** 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://prit2410.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prit-desai-36545412b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/prit2410)  

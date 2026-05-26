@@ -1,11 +1,14 @@
-# Hi, I'm Prit Desai 👋  
+# Hi, I'm Prit Desai 👋
 
-🎓 **MS in Computer Science Graduate @ University of Texas at Arlington** 💻 **Backend & Full-stack Developer | Node.js | Django | Express.js | Python** 📍 **Columbus, Ohio | Open to Opportunities** 
-🔗 **Connect with me:** 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://prit2410.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prit-desai-36545412b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/prit2410)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:pritdesa@gmail.com) 
+🎓 MS in Computer Science Graduate @ University of Texas at Arlington<br>
+💻 Backend & Full-stack Developer | Node.js | Django | Express.js | Python<br>
+📍 Columbus, Ohio | Open to Opportunities
+
+🔗 **Connect with me:**<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://prit2410.github.io/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prit-desai-36545412b/)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/prit2410)<br>
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:pritdesa@gmail.com)
 
 ---
 

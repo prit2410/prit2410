@@ -63,7 +63,7 @@ I am a highly motivated **Computer Science graduate** with a Bachelor's in Compu
 ### **[Text Guide](https://github.com/prit2410/TextGuideVersion3.0)** 🔍  
 *Built an Android app to help farmers translate legal documents and product labels into their preferred language.* *Integrated OCR for text recognition and Firebase for real-time database management.* **Tech Stack:** Java, Android Studio, Firebase, Text-to-Speech  
 
-### **[Hype Beast Info](https://github.com/prit2410/hype-beast-info)** 👟  
+### **[Hype Beast Info](https://github.com/prit2410/HypeBeast-Info)** 👟  
 *Developed a fashion-trend website showcasing the latest sneakers and clothing.* *Implemented a responsive UI for seamless browsing across devices.* **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
 
 ---
